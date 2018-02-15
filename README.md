@@ -1,4 +1,6 @@
 # ultron-plugins
+
+[![Join the chat at https://gitter.im/rapidstack/ultron-plugins](https://badges.gitter.im/rapidstack/ultron-plugins.svg)](https://gitter.im/rapidstack/ultron-plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Optional plugins for Ultron
 
 ### How to configure
